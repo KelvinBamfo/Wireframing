@@ -1,5 +1,5 @@
 # Wireframing
-**Deep Dive into Project Sample**
+## Deep Dive into Project Sample
 Wireframe serves as a blueprint or skeletal framework of a website or application. It outlines the basic structure and layout without delving into detailed design elements like colors, fonts, or images. Wireframes focus on the placement of elements, navigation flow, and overall user interface structure. It is crucial in project development because
 - It gives claear idea and concept of the project
 - It's saves time and resources
