@@ -13,4 +13,15 @@ Wireframe serves as a blueprint or skeletal framework of a website or applicatio
 - Layout Structure: The skeletal framework that organizes content on the screen. This establishes visual hierarchy and guides user flow.
 - Navigation: Menus, links, buttons, and other elements that let users move through the interface. This enables smooth movement across sections and pages.
 - Content Placement: Where text, images, videos, and other media are positioned. This prioritizes information and improves readability.
-- Functionality: Interactive components like forms, sliders, toggles, and search bars. This brings out the interactive behavior and user actions. 
+- Functionality: Interactive components like forms, sliders, toggles, and search bars. This brings out the interactive behavior and user actions.
+#### Types of Wireframes.
+**Low-fidelity Wireframe.**
+Here, the basic sketches or digital outlines showing layout and structure without detailed styling or content. It is used during the early brainstorming and ideation, rapid iteration and feedback, communicating layout ideas without distractions of the design process.
+**Mid-Fidelity Wireframes.**
+This phase is more refined than low-fidelity, with clearer structure, spacing, and placeholder content. This is used during the reviewing layout with teammates or mentors, planning user flows and navigation logic and preparing for design handoff or stakeholder review of the design process.
+**High-Fidelity Wireframes**
+This phase brings the detailed mockups that closely resemble the final product, often created in Figma. It includes the real content, fonts, colors, the interactive elements (clickable buttons, dropdowns), and the responsive layouts for mobile/tablet/desktop. This is used for final design approval before development, for Usability testing and stakeholder demos and developer handoff with specs and assets.
+**Responsive Wireframes**
+Thid is where wireframes are designed for multiple screen sizes and orientations with features like adaptive layouts for mobile, tablet, desktop, breakpoints and scaling behavior and prioritized content for small screens. This wireframe is used during designing mobile-first experiences, ensuring accessibility across devices and testing layout flexibility before coding.
+
+ 
